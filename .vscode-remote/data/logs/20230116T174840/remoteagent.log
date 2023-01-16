@@ -1,0 +1,25 @@
+2023-01-16 17:48:40.736 [info] 
+
+
+
+
+2023-01-16 17:48:40.736 [info] Extension host agent started.
+2023-01-16 17:48:40.797 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2023-01-16 17:48:40.892 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2023-01-16 17:48:41.205 [info] [192.168.86.70][f9b9f04b][ManagementConnection] New connection established.
+2023-01-16 17:48:41.809 [info] Getting Manifest... gitpod.gitpod-theme
+2023-01-16 17:48:41.826 [info] Getting Manifest... github.vscode-pull-request-github
+2023-01-16 17:48:42.705 [info] Installing extension: github.vscode-pull-request-github
+2023-01-16 17:48:42.705 [info] Installing extension: gitpod.gitpod-theme
+2023-01-16 17:48:43.317 [info] Extension installed successfully: gitpod.gitpod-theme
+2023-01-16 17:48:43.589 [info] [192.168.39.10][1200b9f7][ExtensionHostConnection] New connection established.
+2023-01-16 17:48:43.604 [info] [192.168.39.10][1200b9f7][ExtensionHostConnection] <607> Launched Extension Host Process.
+2023-01-16 17:48:44.613 [info] Extracted extension to /workspace/.vscode-remote/extensions/.9cccd6c5-4571-4293-a8a4-548517c1265f: github.vscode-pull-request-github
+2023-01-16 17:48:44.619 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.56.0-universal
+2023-01-16 17:48:44.624 [info] Extracting completed. github.vscode-pull-request-github
+2023-01-16 17:48:44.630 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-01-16 20:01:47.624 [info] [192.168.86.70][f9b9f04b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 20:01:47.686 [info] [192.168.39.10][1200b9f7][ExtensionHostConnection] <607> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 20:01:49.834 [info] [192.168.39.10][1d34da77][ManagementConnection] New connection established.
+2023-01-16 20:01:50.298 [info] [192.168.135.72][b1e7e614][ExtensionHostConnection] New connection established.
+2023-01-16 20:01:50.330 [info] [192.168.135.72][b1e7e614][ExtensionHostConnection] <5822> Launched Extension Host Process.
